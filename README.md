@@ -1,6 +1,8 @@
 # Hello, I'm Conrad
 
-`Full Stack Developer | with Network+, Security+ and Linux+ certifications.`     <a href="https://www.linkedin.com/in/cnrdgrgry/"><img align="center" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>  
+`Full Stack Developer | with Network+, Security+ and Linux+ certifications.`    
+
+<a href="https://www.linkedin.com/in/cnrdgrgry/"><img align="center" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>  
 
 ***
 ## About
