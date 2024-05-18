@@ -8,7 +8,7 @@
 ## About
 A mid-life career changer looking to make a creative contribution in the world of web and software development. 
 
-I come from an eclectic background of Music (Batchelors degree), Retail (High Street and Mail Order Fulfillment) and most recently Bus driving, bringing with me a wide experience in creating great user experiences in varied environments and situations.
+I come from an eclectic background of Music (Batchelors degree), Retail (High Street and Mail Order Fulfillment) and most recently, 7 years of Bus driving along the South Coast, bringing with me a wide experience in creating great user experiences in varied environments and situations.
 
 I started making a change into tech in early 2023 but swiftly decided I enjoyed my time on the command line (Linux), and that then morphed into coding while starting to learn Python for cross-platform scripting.
 
