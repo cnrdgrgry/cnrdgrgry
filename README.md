@@ -4,8 +4,6 @@
 
 <a href="https://www.linkedin.com/in/cnrdgrgry/"><img align="center" alt="LinkedIn" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>   <a href="https://www.instagram.com/cnrdgrgry/"><img align="center" alt="Instagram" width="30px" style="padding-right:30px;" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" /></a>  
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e59acaa5-a318-40ee-ba02-b57ce3a53fb9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 ## About
 A mid-life career changer looking to make a creative contribution in the world of web and software development. 
 
