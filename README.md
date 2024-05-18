@@ -1,6 +1,6 @@
 # Hello, I'm Conrad
 
-`Full Stack Developer | with Network+, Security+ and Linux+ certifications.`       
+`Full Stack Developer | with Network+, Security+ and Linux+ certifications.`   <a href="https://www.linkedin.com/in/cnrdgrgry/"><img align="center" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>  
 
 ***
 ## About
@@ -28,8 +28,7 @@ Lucky enough to have been accepted onto the inaugral [Technative Digital Academy
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />
-***
-## Social
 
-<a href="https://www.linkedin.com/in/cnrdgrgry/"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>  
+***
+
 
