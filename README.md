@@ -13,9 +13,7 @@ I started making a change into tech in early 2023 but swiftly decided I enjoyed 
 
 Lucky enough to have been accepted onto the inaugral [Technative Digital Academy BootCamp](https://www.technativedigital.com). I am now really enjoying, growing my learning, issue solving and coding skills so that I can help to make great things in the future!
 
-***
 ## Languages, Tools and Env
-
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -34,10 +32,11 @@ Lucky enough to have been accepted onto the inaugral [Technative Digital Academy
 <br />
 <br />
 
+
+## Certifications
+
 <a href="https://www.credly.com/badges/bcb1e14c-5682-429e-9c68-0f903b63d37a/public_url"><img align="center" alt="Network+ Certification" width="72px" style="padding-right:72px;" src="comptia-network-ce-certification.1.png" /></a>
 <a href="https://www.credly.com/badges/23ba277c-4f2c-405e-9608-f32fb4d8e401/public_url"><img align="center" alt="Security+ Certification" width="72px" style="padding-right:72px;" src="comptia-security-ce-certification.png" /></a>
 <a href="https://www.credly.com/badges/e59acaa5-a318-40ee-ba02-b57ce3a53fb9/public_url"><img align="center" alt="LinkedIn" width="72px" style="padding-right:72px;" src="comptia-linux-ce-certification.png" /></a>
-
-***
 
 
