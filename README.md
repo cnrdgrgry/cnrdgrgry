@@ -1,6 +1,13 @@
 # Hello, I'm Conrad
 
-`Full Stack Developer, with Network+, Security+ and Linux+ certification.`
+`Full Stack Developer, with Network+, Security+ and Linux+ certifications.`
+
+A mid-life career changer looking to make a creative contribution in the world of web and software development. I come from an eclectic background of Music (Batchelors degree), Retail (High Street and Mail Order Fulfillment) and most recently Bus driving, bringing with me a wide experience in creating great user experiences in varied environments and situations.
+
+I started making a change into tech in early 2023 but swiftly decided I enjoyed my time on the command line (Linux), and that then morphed into coding while starting to learn Python for cross-platform scripting.
+
+Lucky enough to have been accepted onto the inaugral [Technative Digital Academy BootCamp](https://www.technativedigital.com/hire_a_technative/), I'm now developing my learning, issue solving and coding skills so that I can help to make great things!
+
 <!--
 **cnrdgrgry/cnrdgrgry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
