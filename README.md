@@ -11,7 +11,7 @@ I come from an eclectic background of Music (Batchelors degree), Retail (High St
 
 I started making a change into tech in early 2023 but swiftly decided I enjoyed my time on the command line (Linux), and that then morphed into coding while starting to learn Python for cross-platform scripting.
 
-Lucky enough to have been accepted onto the inaugral [Technative Digital Academy BootCamp](https://www.technativedigital.com), I am now really enjoying, growing my learning, issue solving and coding skills so that I can help to make great things in the future!
+Lucky enough to have been accepted onto the inaugral [Technative Digital Academy BootCamp](https://www.technativedigital.com). I am now really enjoying, growing my learning, issue solving and coding skills so that I can help to make great things in the future!
 
 ***
 ## Languages, Tools and Env
