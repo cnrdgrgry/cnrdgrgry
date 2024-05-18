@@ -1,6 +1,10 @@
 # Hello, I'm Conrad
 
 `Full Stack Developer | with Network+, Security+ and Linux+ certifications.`    
+<a href="https://www.credly.com/badges/bcb1e14c-5682-429e-9c68-0f903b63d37a/public_url"><img align="center" alt="Network+ Certification" width="30px" style="padding-right:30px;" src="https://github.com/cnrdgrgry/cnrdgrgry/blob/main/comptia-network-ce-certification.1.png" /></a>
+<a href="https://www.credly.com/badges/23ba277c-4f2c-405e-9608-f32fb4d8e401/public_url"><img align="center" alt="Security+ Certification" width="30px" style="padding-right:30px;" src="https://github.com/cnrdgrgry/cnrdgrgry/blob/main/comptia-security-ce-certification.png" /></a>
+<a href="https://www.credly.com/badges/e59acaa5-a318-40ee-ba02-b57ce3a53fb9/public_url"><img align="center" alt="LinkedIn" width="30px" style="padding-right:30px;" src="comptia-linux-ce-certification.png" /></a>
+<br/>
 
 <a href="https://www.linkedin.com/in/cnrdgrgry/"><img align="center" alt="LinkedIn" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>   <a href="https://www.instagram.com/cnrdgrgry/"><img align="center" alt="Instagram" width="30px" style="padding-right:30px;" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" /></a>  
 
