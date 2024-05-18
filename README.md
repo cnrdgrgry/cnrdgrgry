@@ -6,7 +6,7 @@ A mid-life career changer looking to make a creative contribution in the world o
 
 I started making a change into tech in early 2023 but swiftly decided I enjoyed my time on the command line (Linux), and that then morphed into coding while starting to learn Python for cross-platform scripting.
 
-Lucky enough to have been accepted onto the inaugral [Technative Digital Academy BootCamp](https://www.technativedigital.com/hire_a_technative/), I'm now developing my learning, issue solving and coding skills so that I can help to make great things!
+Lucky enough to have been accepted onto the inaugral [Technative Digital Academy BootCamp](https://www.technativedigital.com), I'm now developing my learning, issue solving and coding skills so that I can help to make great things!
 
 <!--
 **cnrdgrgry/cnrdgrgry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
