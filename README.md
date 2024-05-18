@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hello, I'm Conrad
 
+`Full Stack Developer, with Network+, Security+ and Linux+ certification.`
 <!--
 **cnrdgrgry/cnrdgrgry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
