@@ -4,8 +4,7 @@
 
 `Full Stack Developer | with Network+, Security+ and Linux+ certifications.`    
 
-<a href="https://www.linkedin.com/in/cnrdgrgry/"><img align="center" alt="LinkedIn" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>   
-<a href="https://www.instagram.com/cnrdgrgry/"><img align="center" alt="Instagram" width="30px" style="padding-right:30px;" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" /></a>  
+<a href="https://www.linkedin.com/in/cnrdgrgry/"><img align="center" alt="LinkedIn" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>   <a href="https://www.instagram.com/cnrdgrgry/"><img align="center" alt="Instagram" width="30px" style="padding-right:30px;" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" /></a>  
 
 ## About
 A mid-life career changer looking to make a creative contribution in the world of web and software development. 
